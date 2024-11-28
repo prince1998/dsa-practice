@@ -23,3 +23,4 @@ def min_moves_to_make_palindrome(s):
 
 moves = min_moves_to_make_palindrome("ccxx")
 print(moves)
+
